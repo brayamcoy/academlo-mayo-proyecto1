@@ -1,0 +1,38 @@
+.bg-light {
+    background-color: rgb(218, 211, 211);
+}
+.text-center {
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+/* Flex */
+.d-flex {
+    display: flex;
+}
+.justify-center {
+    justify-content: center;
+}
+.align-center {
+    align-items: center;
+}
+.space-top {
+    margin-top: 30px;
+}
+.space-top-sm {
+    margin-top: 15px;
+}
+.space-margin{
+    margin: 1rem;
+}
+.justify-content-sb{
+    justify-content: space-between;
+    }
+.justify-content-sa{
+    
+        justify-content: space-around;
+    }
+.column{
+        flex-direction: column;
+   }

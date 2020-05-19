@@ -1,0 +1,89 @@
+
+*{
+	@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap');
+	margin: 0;
+    padding: 0;
+	font-weight: normal;
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+	letter-spacing: 2px;
+	line-height: 20pt;
+	font-weight: normal;
+}
+
+/*Nav Section*/
+
+nav{
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	padding: 0 10%;
+}
+nav a{
+  color: black;
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 0.25rem;
+}
+nav li{
+  display: inline-block;
+  }
+
+/*Intro section*/
+#intro{
+	min-height: 100vh;
+}
+
+.intro-title {
+    font-size: 60px;
+}
+.intro-subtitle {
+	font-size: 20px;  
+}
+/*Services*/
+
+#services{
+	margin-top: -100px;
+}
+
+/*Works*/
+#works{
+   padding: 7rem;
+   
+}
+
+/*News*/
+
+.news{
+	padding: 7rem;
+}
+
+/*Footer*/
+
+#footer{
+	padding: 4rem 3rem 4rem 3rem;
+	background: black;
+	color: white;
+	box-shadow: 0 0.1px 10px rgba(0,0,0,0.16), 0 0.1px 0.1px rgba(0,0,0,0.23);
+}
+
+#footerbar{
+	display: block;
+	background: rgb(26, 25, 25);
+	padding: 1.5rem 3rem;
+	color: white;
+}
+
+#footerbar li{
+	display: inline-block;	
+}
+
+#footerbar a{
+  color: white;
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 0.25rem;
+}

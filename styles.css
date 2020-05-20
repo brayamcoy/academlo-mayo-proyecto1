@@ -13,6 +13,9 @@ h1, h2, h3, h4, h5, h6, p{
 	line-height: 20pt;
 	font-weight: normal;
 }
+img{
+	max-width: 100%;
+}
 
 /*Nav Section*/
 
@@ -50,10 +53,13 @@ nav li{
 
 /*Works*/
 #works{
-   padding: 7rem;
+   padding: 5rem;
    
 }
-
+#works h5 {
+	display: inline-flex;
+	margin: 2rem;
+}
 /*News*/
 
 .news{

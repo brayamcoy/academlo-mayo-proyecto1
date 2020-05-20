@@ -36,3 +36,6 @@
 .column{
         flex-direction: column;
    }
+.absolute{
+    position: relative;
+}

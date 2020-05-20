@@ -23,9 +23,6 @@
 .space-top-sm {
     margin-top: 15px;
 }
-.space-margin{
-    margin: 1rem;
-}
 .justify-content-sb{
     justify-content: space-between;
     }
@@ -36,6 +33,3 @@
 .column{
         flex-direction: column;
    }
-.absolute{
-    position: relative;
-}

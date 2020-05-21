@@ -13,3 +13,13 @@
     padding: 1rem 3.5rem;
     margin: 100px 0px 100px 0px;
  }
+
+ .button-af{
+    background: white;
+    text-decoration: none;
+    border: solid 1px black;
+    border-radius: 1px;
+    text-transform: uppercase;
+    padding: 0.2rem 1rem;
+    
+ }

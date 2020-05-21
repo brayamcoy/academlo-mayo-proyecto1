@@ -23,6 +23,9 @@
 .space-top-sm {
     margin-top: 15px;
 }
+.space-margin{
+    margin: 2rem;
+}
 .justify-content-sb{
     justify-content: space-between;
     }

@@ -23,9 +23,10 @@ nav{
 	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 	padding: 0 10%;
 	position: fixed;
+	background-color: white;
+	top: 0;
 	left: 0;
 	right: 0;
-	background-color: white;
 }
 nav ul{
 	list-style: none;
@@ -68,7 +69,7 @@ nav ul li:hover > ul {
 }
 /*Intro section*/
 #intro{
-	min-height: 100vh;
+	min-height: 120vh;
 }
 
 .intro-title {
@@ -98,11 +99,17 @@ nav ul li:hover > ul {
 	padding: 7rem;
 }
 
+/*Design */
+
+#design{
+	margin-top: 150px;
+}
+
 /*Footer*/
 
 #footer{
 	margin-top: 150px;
-	min-height: 60vh;
+	min-height: 50vh;
 	background: black;
 	color: white;
 	box-shadow: 0 0.1px 10px rgba(0,0,0,0.16), 0 0.1px 0.1px rgba(0,0,0,0.23);
